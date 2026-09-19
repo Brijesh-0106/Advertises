@@ -1,0 +1,8 @@
+{
+  "name": "Advertises.co.in — Smart advertising tools for Indian businesses — The Million Rupee Billboard Wall",
+  "description": "Interactive pixel mosaic billboard and bidding arena for India's startup universe. Claim slots from ₹1 with instant UPI activation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
